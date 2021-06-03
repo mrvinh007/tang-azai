@@ -1,13 +1,13 @@
 const CONFIG = {
     introTitle: 'Bằng à!',
-    introDesc: `anh có biết là sắp thi cuối kỳ rồi không, bao nhiêu deadline dồn dập
-    Em biết anh rất thích bé L nhưng gì thì cũng để thi xong rồi mới mời b ấy đi chơi nhé
+    introDesc: `anh có biết là sắp thi cuối kỳ rồi không, bao nhiêu deadline dồn dập.
+    Em biết anh rất thích bé L nhưng gì thì cũng để thi xong rồi mới mời b ấy đi chơi nhé.
     Anh để con người ta chờ hơi lâu rồi đấy`,
-    btnIntro: 'hihi',
-    title: 'BÂY GIỜ THÌ NGHÈO VÀ XẤU 😙',
+    btnIntro: 'Fun Fact',
+    title: 'Bây giờ thì nghèo và xấu thì ai cũng biết rồi 😙',
     desc: 'điều đó thì ai cũng biết rồi ',
-    btnYes: 'không, em đẹp trai mà',
-    btnNo: 'Em biết, em xấu và ngố :3',
+    btnYes: ' Em biết, em xấu và ngố :3',
+    btnNo: 'Không, em đẹp trai mà',
     question:'KHÔNG HỌC THÌ SAU LÀM 4F ĐỰC ĐẤY ONICHAN',
     btnReply: 'ok em biết rồi <3',
     reply: 'không nghe thì ăn đòn',
