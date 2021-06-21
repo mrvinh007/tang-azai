@@ -1,6 +1,5 @@
-const CONFIG = {
-    introTitle: 'Bằng à!',
-    introDesc: `anh có biết là sắp thi cuối kỳ rồi không, bao nhiêu deadline dồn dập.
+const CONFIG =
+    innh có biết là sắp thi cuối kỳ rồi không, bao nhiêu deadline dồn 
     Em biết anh rất thích bé L nhưng gì thì cũng để thi xong rồi mới mời b ấy đi chơi nhé.
     Anh để con người ta chờ hơi lâu rồi đấy`,
     btnIntro: 'Fun Fact',
